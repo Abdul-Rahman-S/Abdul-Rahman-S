@@ -13,11 +13,11 @@
 
 ---
 
-<!--## **🛠 Tech Stack**
+## **🛠 Tech Stack**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!--![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FFDD44.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23117A65.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-### 🔨 Languages and Tools:
+<!--### 🔨 Languages and Tools:
 <a href="https://matplotlib.org/" target="_blank"> 
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="42px"/> 
 </a> 
@@ -66,7 +66,7 @@
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="Neural Network" height="42px"/> 
 </a> 
 
-<br>
+<br-->
 
 
 ## **📊 My GitHub Stats**
