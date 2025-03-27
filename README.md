@@ -13,7 +13,7 @@
 
 ---
 
-## **🛠 Tech Stack**
+<!--## **🛠 Tech Stack**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,9 +30,44 @@
 ![NLTK](https://img.shields.io/badge/NLTK-%234CAF50.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Neural Network](https://img.shields.io/badge/Neural%20Network-%23FF6F00.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)-->
 
 ---
+
+### 🔨 Languages and Tools:
+<a href="https://matplotlib.org/" target="_blank"> 
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="42px"/> 
+</a> 
+<a href="https://seaborn.pydata.org/" target="_blank"> 
+  <img align="left" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="42px"/> 
+</a> 
+<a href="https://numpy.org/" target="_blank">
+  <img align="left" alt="NumPy" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg">
+</a>
+<a href="https://pandas.pydata.org/" target="_blank"> 
+  <img align="left" alt="Pandas" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img align="left" alt="Scikit-learn" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img align="left" alt="Power BI" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+</a>
+<a href="https://www.sqlite.org/index.html" target="_blank">
+  <img align="left" alt="SQL" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">
+</a>
+<a href="https://spacy.io/" target="_blank">
+  <img align="left" alt="SpaCy" height ="42px" src="https://spacy.io/static/social-default.jpg">
+</a>
+<a href="https://www.nltk.org/" target="_blank">
+  <img align="left" alt="NLTK" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/8b/NLTK_Logo.jpg">
+</a>
+<a href="https://www.tensorflow.org/" target="_blank"> 
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="Neural Network" height="42px"/> 
+</a> 
+
+<br>
+
 
 ## **📊 My GitHub Stats**
 
