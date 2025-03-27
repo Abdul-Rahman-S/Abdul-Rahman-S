@@ -22,3 +22,22 @@ Here are some ideas to get you started:
   <br/><br/><br/>
 </div>
 
+# Awesome GitHub Profile README
+
+[![Awesome](https://img.shields.io/badge/-awesome-purple?style=flat-square&logo=vercel&logoColor=white)](https://github.com/Abdul-Rahman-S)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square)](#)
+[![If Useful](https://img.shields.io/badge/-If%20Useful-yellow?style=flat-square)](#)
+[![Join Community](https://img.shields.io/badge/Join%20Community-Online-blue?style=flat-square)](#)
+[![Follow Me](https://img.shields.io/github/followers/Abdul-Rahman-S?style=social)](https://github.com/Abdul-Rahman-S)
+
+*A curated collection of my projects, contributions, and achievements!*
+
+---
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Abdul-Rahman-S?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Abdul-Rahman-S?style=social)
+![GitHub open pull requests](https://img.shields.io/github/issues-pr/Abdul-Rahman-S)
+![GitHub open issues](https://img.shields.io/github/issues/Abdul-Rahman-S)
+![GitHub contributors](https://img.shields.io/github/contributors/Abdul-Rahman-S)
+![GitHub license](https://img.shields.io/github/license/Abdul-Rahman-S)
+
