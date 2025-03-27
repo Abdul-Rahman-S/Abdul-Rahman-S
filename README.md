@@ -1,15 +1,15 @@
 # Hi there. I am Abdul-Rahman 👋. Welcome to my Profile!!!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Abdul-Rahman-S&left_color=gray&right_color=blue)
+<!--[visitors](https://visitor-badge.glitch.me/badge?page_id=Abdul-Rahman-S&left_color=gray&right_color=blue)-->
 
 - ⚡ I am currently working on **MERN Stack Development & AI projects**.
 - 🌱 Currently learning: **Advanced AI, Robotics, and AR/VR Development**.
 - 💬 Ask me about: **JavaScript, Python, AI, ML, and Full-Stack Web Development**.
 - 😊 Pronouns: **He/Him**.
 - 📫 How to reach me:  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmans90745@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/your-profile)
+  <!--[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/your-profile)-->
 
 ---
 
@@ -19,7 +19,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/Matplotlib-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
