@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-https://github.com/Abdul-Rahman-S/Abdul-Rahman-S/blob/output/github-snake-dark.svg
+### 🐍 GitHub Contribution Snake
+![GitHub Snake Animation](https://github.com/Abdul-Rahman-S/Abdul-Rahman-S/blob/output/github-contribution-grid-snake.svg)
