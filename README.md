@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🐍 GitHub Contribution Snake
-![GitHub Snake Animation](https://github.com/Abdul-Rahman-S/Abdul-Rahman-S/blob/output/github-contribution-grid-snake.svg)
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abdul-Rahman-S/Abdul-Rahman-S/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
