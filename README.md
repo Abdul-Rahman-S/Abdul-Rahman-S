@@ -32,12 +32,3 @@ Here are some ideas to get you started:
 
 *A curated collection of my projects, contributions, and achievements!*
 
----
-
-![GitHub Repo stars](https://img.shields.io/github/stars/Abdul-Rahman-S?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Abdul-Rahman-S?style=social)
-![GitHub open pull requests](https://img.shields.io/github/issues-pr/Abdul-Rahman-S)
-![GitHub open issues](https://img.shields.io/github/issues/Abdul-Rahman-S)
-![GitHub contributors](https://img.shields.io/github/contributors/Abdul-Rahman-S)
-![GitHub license](https://img.shields.io/github/license/Abdul-Rahman-S)
-
