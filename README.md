@@ -1,3 +1,14 @@
+<h2 align="center">🚀 Animated Profile Card</h2>
+
+<p align="center">
+  <a href="https://Abdul-Rahman-S.github.io/" target="_blank">
+    <img src="https://Abdul-Rahman-S.github.io/profile.jpg" alt="Click to open animated profile card" width="200" />
+  </a>
+</p>
+
+> Click the image above to view the animated card with transitions ✨
+
+
 # Hi there. I am Abdul-Rahman 👋. Welcome to my Profile!!!
 
 <!--[visitors](https://visitor-badge.glitch.me/badge?page_id=Abdul-Rahman-S&left_color=gray&right_color=blue)-->
