@@ -2,103 +2,70 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>ASWIN-SPARKY Profile</title>
+  <title>Profile Card Animation</title>
   <style>
     body {
+      background-color: #eaf3f8;
       margin: 0;
-      padding: 0;
-      background-color: #0d1117;
       font-family: 'Segoe UI', sans-serif;
+    }
+    .container {
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
     }
-
-    .profile-card {
-      background-color: #e7f2f7;
-      width: 700px;
-      padding: 40px;
-      border-radius: 15px;
+    .card {
       display: flex;
-      align-items: center;
       justify-content: space-between;
-      box-shadow: 0 8px 16px rgba(0,0,0,0.3);
-      overflow: hidden;
-      position: relative;
+      align-items: center;
+      width: 800px;
+      padding: 30px;
+      border-radius: 20px;
+      background-color: #ffffff;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.1);
     }
-
-    .info {
-      animation: slideInLeft 1.2s ease forwards;
-      opacity: 0;
+    .text {
+      transform: translateX(-200%);
+      animation: slideInText 1s ease-out forwards;
     }
-
-    .info h1 {
-      font-size: 36px;
+    .text h1 {
       margin: 0;
+      font-size: 2.8em;
+      font-weight: bold;
       color: #000;
     }
-
-    .info p {
-      font-size: 16px;
-      margin: 10px 0;
-      color: #333;
+    .text p {
+      font-size: 1.2em;
+      color: #444;
     }
-
-    .socials {
-      margin-top: 10px;
-      font-size: 14px;
-      color: #222;
-    }
-
-    .image {
-      animation: slideInRight 1.2s ease forwards;
-      opacity: 0;
-    }
-
     .image img {
-      width: 150px;
-      height: 150px;
-      object-fit: cover;
       border-radius: 50%;
-      border: 5px solid #fff;
+      height: 200px;
+      transform: translateX(200%);
+      animation: slideInImg 1s ease-out forwards;
+      animation-delay: 0.5s;
     }
 
-    @keyframes slideInLeft {
-      from {
-        transform: translateX(-100%);
-        opacity: 0;
-      }
-      to {
-        transform: translateX(0);
-        opacity: 1;
-      }
+    @keyframes slideInText {
+      to { transform: translateX(0); }
     }
 
-    @keyframes slideInRight {
-      from {
-        transform: translateX(100%);
-        opacity: 0;
-      }
-      to {
-        transform: translateX(0);
-        opacity: 1;
-      }
+    @keyframes slideInImg {
+      to { transform: translateX(0); }
     }
   </style>
 </head>
 <body>
-  <div class="profile-card">
-    <div class="info">
-      <h1>ASWIN-SPARKY</h1>
-      <p>Hi, Welcome To My Profile</p>
-      <hr style="width: 60%; border: 1px solid #bbb;">
-      <div class="socials">
-        <span>📷 sparky.drip</span> &nbsp; <span>🐱‍🏍 A-S-W-I-N-S-P-A-R-K-Y</span>
+  <div class="container">
+    <div class="card">
+      <div class="text">
+        <h1>ABDUL-RAHMAN-S</h1>
+        <p>Hi, Welcome to My Profile 👋</p>
       </div>
-    </div>
-    <div class="image">
-      <img src="https://via.placeholder.com/150" alt="Profile Image">
+      <div class="image">
+        <img src="profile.jpg" alt="Profile">
+      </div>
     </div>
   </div>
 </body>
