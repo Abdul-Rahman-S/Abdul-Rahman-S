@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abdul-Rahman-S/Abdul-Rahman-S/main/assets/animated-profile.gif" alt="Profile Card Animation" />
+</p>
+
 # Hi there. I am Abdul-Rahman 👋. Welcome to my Profile!!!
 
 <!--[visitors](https://visitor-badge.glitch.me/badge?page_id=Abdul-Rahman-S&left_color=gray&right_color=blue)-->
