@@ -4,6 +4,7 @@
 
 
 
+![Visitors](https://komarev.com/ghpvc/?username=Abdul-Rahman-S&color=blue)
 
 <!--[visitors](https://visitor-badge.glitch.me/badge?page_id=Abdul-Rahman-S&left_color=gray&right_color=blue)-->
 
@@ -16,7 +17,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
   <!--[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/your-profile)-->
 ---
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Rahman-S&theme=github-compact)](https://github.com/Abdul-Rahman-S)
+<!--[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Rahman-S&theme=github-compact)](https://github.com/Abdul-Rahman-S)-->
 
 ## **🛠 Tech Stack**
 
@@ -71,6 +72,9 @@
 </a> 
 
 <br-->
+
+<!--[![Trophy](https://github-profile-trophy.vercel.app/?username=Abdul-Rahman-S&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)-->
+
 
 
 ## **📊 My GitHub Stats**
