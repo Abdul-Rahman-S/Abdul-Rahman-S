@@ -1,10 +1,9 @@
-# 👋 Hello, I'm Abdul Rahman
+# 👋 Hello, I'm Abdul Rahman. Welcome to my Profile!!!
 
 ![Profile Card](https://github.com/Abdul-Rahman-S/Abdul-Rahman-S/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).gif?raw=true)
 
 
 
-# Hi there. I am Abdul-Rahman 👋. Welcome to my Profile!!!
 
 <!--[visitors](https://visitor-badge.glitch.me/badge?page_id=Abdul-Rahman-S&left_color=gray&right_color=blue)-->
 
