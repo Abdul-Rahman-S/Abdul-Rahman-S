@@ -1,12 +1,7 @@
-<h2 align="center">🚀 Animated Profile Card</h2>
+# 👋 Hello, I'm Abdul Rahman
 
-<p align="center">
-  <a href="https://Abdul-Rahman-S.github.io/" target="_blank">
-    <img src="https://Abdul-Rahman-S.github.io/profile.jpg" alt="Click to open animated profile card" width="200" />
-  </a>
-</p>
+![Profile Card](https://github.com/Abdul-Rahman-S/Abdul-Rahman-S/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).gif?raw=true)
 
-> Click the image above to view the animated card with transitions ✨
 
 
 # Hi there. I am Abdul-Rahman 👋. Welcome to my Profile!!!
