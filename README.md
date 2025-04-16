@@ -14,7 +14,9 @@
 - 😊 Pronouns: **He/Him**.
 - 📫 How to reach me:  
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmans90745@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/abdul-rahmans)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h_e_r_m_e_s._/)
+
   <!--[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/your-profile)-->
 ---
 <!--[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Rahman-S&theme=github-compact)](https://github.com/Abdul-Rahman-S)-->
