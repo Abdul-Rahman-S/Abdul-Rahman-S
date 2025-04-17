@@ -2,11 +2,14 @@
 
 ![Profile Card](https://github.com/Abdul-Rahman-S/Abdul-Rahman-S/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).gif?raw=true)
 
-
+</p>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdul-Rahman-S&color=blue" alt="Visitors"/>
 </div>
+
 
 
 <!--[visitors](https://visitor-badge.glitch.me/badge?page_id=Abdul-Rahman-S&left_color=gray&right_color=blue)-->
