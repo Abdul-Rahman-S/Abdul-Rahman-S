@@ -4,7 +4,10 @@
 
 
 
-![Visitors](https://komarev.com/ghpvc/?username=Abdul-Rahman-S&color=blue)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdul-Rahman-S&color=blue" alt="Visitors"/>
+</div>
+
 
 <!--[visitors](https://visitor-badge.glitch.me/badge?page_id=Abdul-Rahman-S&left_color=gray&right_color=blue)-->
 
