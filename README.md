@@ -18,6 +18,7 @@
 - 🌱 Currently learning: **Advanced AI, Robotics, and AR/VR Development**.
 - 💬 Ask me about: **Python, AI and ML Developer**.
 - 😊 Pronouns: **He/Him**.
+- 💻 Working at **Manha Facility Management** as **Data Scientist**
 - 📫 How to reach me:  
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmans90745@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rahmans)
