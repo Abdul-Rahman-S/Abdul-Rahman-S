@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Abdul Rahman. Welcome to my Profile!!!
+# 👋 Hello, I'm Abdul Rahman S. Welcome to my Profile!!!
 
 ![Profile Card](https://github.com/Abdul-Rahman-S/Abdul-Rahman-S/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).gif?raw=true)
 
