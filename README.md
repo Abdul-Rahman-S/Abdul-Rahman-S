@@ -14,11 +14,14 @@
 
 <!--[visitors](https://visitor-badge.glitch.me/badge?page_id=Abdul-Rahman-S&left_color=gray&right_color=blue)-->
 
-- ⚡ I am currently working on **AI & ML projects**.  
-- 🌱 Currently learning: **Advanced AI, Robotics, and AR/VR Development**.  
-- 💬 Ask me about: **Python, AI and ML Developer**.  
-- 😊 Pronouns: **He/Him**.  
-- 💻 Working at: **Manha Facility Management as Data Scientist**.  
+<ul>
+  <li>⚡ I am currently working on <b>AI & ML projects</b>.</li>
+  <li>🌱 Currently learning: <b>Advanced AI, Robotics, and AR/VR Development</b>.</li>
+  <li>💬 Ask me about: <b>Python, AI and ML Developer</b>.</li>
+  <li>😊 Pronouns: <b>He/Him</b>.</li>
+  <li>💻 Working at: <b>Manha Facility Management as Data Scientist</b>.</li>
+</ul>
+  
 
 
 - 📫 How to reach me:  
